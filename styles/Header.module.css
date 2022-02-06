@@ -1,0 +1,17 @@
+.header {
+  max-width: 1000px;
+  margin: auto;
+  box-shadow: 10px 0 40px rgba(0, 0, 0, 0.2);
+  min-height: 60px;
+  padding: 1rem 2.5rem;
+  border-radius: 0.5rem;
+}
+
+.list {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.list-items {
+  margin: 0 10px;
+}
